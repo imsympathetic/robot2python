@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/MichalKaczmarek/Downloads/my-rsb-robot2py/robot2py/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
